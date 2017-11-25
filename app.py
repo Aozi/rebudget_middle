@@ -28,6 +28,7 @@ class Transaction(db.Model):
     amount = db.Column(db.Float)
     company = db.Column(db.String)
     time = db.Column(db.DateTime)
+    category = db.Column(db.String)
 
 db.create_all()
 
