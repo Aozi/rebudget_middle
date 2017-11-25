@@ -36,12 +36,32 @@ def add_user():
 
     return jsonify(new_user)
 
+# endpoint to create a transaction
+@app.route("/transaction", methods=["POST"])
+def add_transaction():
+    trans_id = request.json('id')
+    trans_user_id = request.json('user_id')
+    trans_amount = request.json('amount')
+    trans_company = request.json('company')
+    trans_time = request.json('time')
+
+    new_transaction = Transaction(trans_id, trans_user_id, trans_amount, trans_company, trans_time)
+
+    db.session.add(new_transaction)
+    db.session.commit()
+
+# endpoint to show transactions by user
+@app.route("/transaction/user/<id>", methods=["GET"])
+def get_trans_by_user(q_user_id):
+    all_transactions = Transaction.query(Transaction.user_id).filter(Transaction.user_id == q_user_id)
+    result = transaction_schema.dump(all_transactions)
+    return jsonify(result.data)
 
 # endpoint to show all users
 @app.route("/user", methods=["GET"])
 def get_user():
     all_users = User.query.all()
-    result = users_schema.dump(all_users)
+    result = user_schema.dump(all_users)
     return jsonify(result.data)
 
 # endpoint to get user detail by id
