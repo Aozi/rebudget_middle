@@ -2,6 +2,6 @@ from app import User, Transaction, db
 
 new_user = User(id=0)
 new_tr = Transaction(id=0,user_id=0,amount=100,company="blah")
-new_user.transactions.add(new_tr)
+new_user.transactions.append(new_tr)
 db.session.add(new_user)
 db.session.commit()
