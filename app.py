@@ -9,7 +9,7 @@ db = SQLAlchemy(app)
 
 # Create our database model
 class User(db.Model):
-    __tablename__ = "users"
+    __tablename__ = "user"
     id = db.Column(db.Integer, primary_key=True)
     transactions = db.relationship("Transaction", backref='user', lazy=True)
 
