@@ -12,19 +12,19 @@ session = db.sessionmaker(bind=db.get_engine())
 # Create our database model
 class User(db.Model):
     __tablename__ = "user"
-    id = db.Column(db.Integer, primary_key=True)
+    u_id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String)
     balance = db.Column(db.Float)
     transactions = db.relationship("Transaction", backref='user', lazy=True)
 
     def __init__(self, id, name, balance):
-        self.id = id
+        self.u_id = u_id
         self.name = name
         self.balance = balance
 
 class Transaction(db.Model):
     __tablename__ = 'transaction'
-    id = db.Column(db.Integer, primary_key=True)
+    t_id = db.Column(db.Integer, primary_key=True)
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
     amount = db.Column(db.Float)
     company = db.Column(db.String)
