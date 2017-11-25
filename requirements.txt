@@ -5,5 +5,5 @@ gunicorn
 Flask-Restless
 requests
 numpy
-sscaler
+sklearn
 pandas
