@@ -30,7 +30,7 @@ db.create_all()
 
 manager = flask.ext.restless.APIManager(app, flask_sqlalchemy_db=db)
 
-manager.create_api(User, methods=['GET', 'POST', 'DELETE'])
+manager.create_api(User, methods=['GET', 'POST', 'PATCH' 'DELETE'], allow_to_many_replacement=True, allow_delete_from_to_many_relationships=True)
 manager.create_api(Transaction, methods=['GET', 'POST', 'DELETE'])
 
 if __name__ == '__main__':
