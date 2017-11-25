@@ -29,18 +29,12 @@ class Transaction(db.Model):
     company = db.Column(db.String)
     time = db.Column(db.DateTime)
 
-db.drop_all()
 db.create_all()
-
-
 
 manager = flask.ext.restless.APIManager(app, flask_sqlalchemy_db=db)
 
 manager.create_api(bank_User, methods=['GET', 'POST', 'PATCH' 'DELETE'], allow_patch_many=True, allow_delete_many=True)
 manager.create_api(Transaction, methods=['GET', 'POST', 'DELETE'])
-
-
-
 
 if __name__ == '__main__':
     app.debug = True
