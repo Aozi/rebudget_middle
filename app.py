@@ -13,6 +13,8 @@ session = db.sessionmaker(bind=db.get_engine())
 class User(db.Model):
     __tablename__ = "user"
     id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String)
+    balance = db.Column(db.Float)
     transactions = db.relationship("Transaction", backref='user', lazy=True)
 
     def __init__(self, id):
