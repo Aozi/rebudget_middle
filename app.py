@@ -11,7 +11,7 @@ db = SQLAlchemy(app)
 class User(db.Model):
     __tablename__ = "users"
     id = db.Column(db.Integer, primary_key=True)
-    transactions = relationship("Transaction")
+    transactions = db.relationship("Transaction", backref='user', lazy=True)
 
     def __init__(self, id):
         self.id = id
@@ -19,7 +19,7 @@ class User(db.Model):
 class Transaction(db.Model):
     __tablename__ = 'transaction'
     id = db.Column(db.Integer, primary_key=True)
-    user_id = db.Column(db.Integer, db.ForeignKey('User.id'))
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
     amount = db.Column(db.Float)
     company = db.Column(db.String)
     time = db.Column(db.DateTime)
