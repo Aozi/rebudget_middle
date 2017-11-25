@@ -1,6 +1,6 @@
 import os
 from flask import Flask, request, jsonify
-from flask.sqlalchemy import SQLAlchemy
+from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import relationship
 
 app = Flask(__name__)
