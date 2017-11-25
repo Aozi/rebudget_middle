@@ -1,46 +1,7 @@
-from app import db, User, Transaction
+from app import User, Transaction, db
 
-i = user.insert()
-i.execute({id:1}, {id:2}, {id:3})
-
-i2 = transaction.insert()
-i2.execute(
-	{
-	"id":0, 
-	"user_id":1,
-	"amount":100,
-	"company":"K Kauppa"
-	},
-
-	{
-	"id":1, 
-	"user_id":1,
-	"amount":20,
-	"company":"K Kauppa"
-	},
-
-
-	{
-	"id":2, 
-	"user_id":1,
-	"amount":32,
-	"company":"K Kauppa"
-	},
-
-
-	{
-	"id":3, 
-	"user_id":1,
-	"amount":10,
-	"company":"K Kauppa"
-	},
-
-	{
-	"id":4, 
-	"user_id":1,
-	"amount":300,
-	"company":"K Kauppa"
-
-	}
-
-	)
+new_user = User(id=0)
+new_tr = Transaction(id=0,user_id=0,amount=100,company="blah")
+db.session.add(new_user)
+db.session.add(new_tr)
+db.session.commit()

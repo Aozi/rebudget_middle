@@ -7,6 +7,7 @@ import flask.ext.restless
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
 db = SQLAlchemy(app)
+session = db.sessionmaker(bind=db.get_engine())
 
 # Create our database model
 class User(db.Model):
@@ -25,13 +26,15 @@ class Transaction(db.Model):
     company = db.Column(db.String)
     time = db.Column(db.DateTime)
 
-
 db.create_all()
 
 manager = flask.ext.restless.APIManager(app, flask_sqlalchemy_db=db)
 
 manager.create_api(User, methods=['GET', 'POST', 'PATCH' 'DELETE'], allow_patch_many=True, allow_delete_many=True)
 manager.create_api(Transaction, methods=['GET', 'POST', 'DELETE'])
+
+
+
 
 if __name__ == '__main__':
     app.debug = True
