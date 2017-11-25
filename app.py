@@ -17,7 +17,7 @@ class User(db.Model):
     balance = db.Column(db.Float)
     transactions = db.relationship("Transaction", backref='user', lazy=True)
 
-    def __init__(self, id, name, balance):
+    def __init__(self, u_id, name, balance):
         self.u_id = u_id
         self.name = name
         self.balance = balance
