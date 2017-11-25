@@ -30,8 +30,9 @@ class Transaction(db.Model):
     time = db.Column(db.DateTime)
 
 db.drop_all()
-
 db.create_all()
+
+
 
 manager = flask.ext.restless.APIManager(app, flask_sqlalchemy_db=db)
 
