@@ -105,7 +105,7 @@ def get_transactions():
 def get_golden_value():
     sql_q =text("SELECT ABS(amount) FROM transaction WHERE category in ('groceries', 'rent', 'health', 'bills')")
     result = db.engine.execute(sql_q)
-    for row in result
+    for row in result:
         print row
 
 
