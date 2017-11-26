@@ -8,3 +8,4 @@ numpy
 sklearn
 pandas
 Marshmallow
+flask-marshmallow
