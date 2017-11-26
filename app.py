@@ -14,7 +14,7 @@ class bank_User(db.Model):
     __tablename__ = "bank_user"
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String)
-    balance = db.Column(db.Float)
+    balance = db.Column(db.String)
     transactions = db.relationship("Transaction", backref='bank_user', lazy=True)
 
     def __init__(self, name, balance):
@@ -25,9 +25,9 @@ class Transaction(db.Model):
     __tablename__ = 'transaction'
     id = db.Column(db.Integer, primary_key=True)
     user_id = db.Column(db.Integer, db.ForeignKey('bank_user.id'))
-    amount = db.Column(db.Float)
+    amount = db.Column(db.String)
     company = db.Column(db.String)
-    time = db.Column(db.DateTime)
+    time = db.Column(db.String)
     category = db.Column(db.String)
 
 db.create_all()
