@@ -103,7 +103,7 @@ def get_transactions():
 
 @app.route("/golden_value",methods=['GET'])
 def get_golden_value():
-    result = session().execute('SELECT ABS(amount) FROM transaction WHERE category IN ('groceries','rent','health','bills')')
+    result = session.execute('SELECT ABS(amount) FROM transaction WHERE category IN ('groceries','rent','health','bills')')
     #Use the machine learning algorithms here to analyze the database and find a proper golden value
 
 
