@@ -72,11 +72,11 @@ def add_user():
 
 
 # endpoint to show all users
-@app.route("/user", methods=["GET"])
-def get_user():
-    all_users = bank_User.query.all()
-    result = users_schema.dump(all_users)
-    return jsonify(result.data)
+#@app.route("/user", methods=["GET"])
+#def get_user():
+#    all_users = bank_User.query.all()
+#    result = users_schema.dump(all_users)
+#    return jsonify(result.data)
 
 
 @app.route("/transaction",methods=["POST"])
@@ -99,6 +99,12 @@ def get_transactions():
     all_transactions = Transaction.query.all()
     result = trans_schema.dump(all_transactions)
     return jsonify(result.data)
+
+@app.route("/golden_value",methods=['GET'])
+def get_golden_value():
+    rs = db.engine.connect.execute('SELECT ABS(amount) FROM transaction WHERE category in ('groceries', 'rent', 'health', 'bills')')
+    for row in rs
+        print row
 
 if __name__ == '__main__':
     app.debug = True
