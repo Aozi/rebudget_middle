@@ -13,20 +13,14 @@ import datetime
 
 
 
-transactions = json.load(open("output.json"))
+#transactions = json.load(open("output.json"))
 
-02/05/2017
-
-for trans in transactions:
-    #print trans['place']
-    #print float(trans['amount'])
-    #print trans['categories']
-    d = trans[datetime.datetime.strptime(trans['date'], "%d/%m/%Y")]
-    print d
-
-    r = requests.post("https://intense-shore-10684.herokuapp.com/api/transaction", json={
-        'user_id': 1,
-        'amount': float(trans['amount']),
-        'company': trans['place'],
-        'category':trans['categories'],
-        'date': trans[datetime.datetime.strptime(trans['date'], "%d/%m/%Y")]})
+#for trans in transactions:
+#    r = requests.post("https://intense-shore-10684.herokuapp.com/api/transaction", json={
+#        'user_id': 1,
+#        'amount': float(trans['amount']),
+#        'company': trans['place'],
+#        'category':trans['categories'],
+#        'time': trans['date']
+#    })
+#    print(r.status_code, r.reason)
