@@ -2,6 +2,7 @@ import os
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
+from sqlalchemy import text
 from sqlalchemy.orm import relationship
 import flask.ext.restless
 
@@ -102,9 +103,11 @@ def get_transactions():
 
 @app.route("/golden_value",methods=['GET'])
 def get_golden_value():
-    rs = db.engine.connect.execute('SELECT ABS(amount) FROM transaction WHERE category in ('groceries', 'rent', 'health', 'bills')')
-    for row in rs
+    sql_q =text("SELECT ABS(amount) FROM transaction WHERE category in ('groceries', 'rent', 'health', 'bills')")
+    result = db.engine.execute(sql_q)
+    for row in result
         print row
+
 
 if __name__ == '__main__':
     app.debug = True
