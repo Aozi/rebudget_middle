@@ -1,0 +1,3326 @@
+[
+    {
+        "date": "02/05/2017", 
+        "amount": "-7.95", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "03/05/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "03/05/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "05/05/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "03/05/2017", 
+        "amount": "-7.5", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-10.2", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-2.5", 
+        "place": "compagnie mat oy ab helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-9.0", 
+        "place": "compagnie mat oy ab helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-8.7", 
+        "place": "dream friends oy    helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-45.55", 
+        "place": "tmi hauler food     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-14.0", 
+        "place": "ravintola santa f   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "06/05/2017", 
+        "amount": "-14.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/05/2017", 
+        "amount": "-30.55", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "07/05/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/05/2017", 
+        "amount": "-8.4", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/05/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "09/05/2017", 
+        "amount": "-4.6", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/05/2017", 
+        "amount": "-2.84", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "09/05/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/05/2017", 
+        "amount": "-49.9", 
+        "place": "sokos helsinki      helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "10/05/2017", 
+        "amount": "-0.18", 
+        "place": "sokos helsinki      helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "12/05/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-3.18", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-6.5", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-6.4", 
+        "place": "r hki r-as. lansisi helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-17.5", 
+        "place": "iz *kahvila taikap  tampere", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-14.9", 
+        "place": "iz *kahvila taikap  tampere", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-6.0", 
+        "place": "vr tampere asema    tampere", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-2.5", 
+        "place": "avecra oy 7303 ravi helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-13.1", 
+        "place": "makuuni oy          tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/05/2017", 
+        "amount": "-1.75", 
+        "place": "mcdonalds fredrikin helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/05/2017", 
+        "amount": "-5.49", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/05/2017", 
+        "amount": "-11.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/05/2017", 
+        "amount": "-7.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/05/2017", 
+        "amount": "-24.82", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "15/05/2017", 
+        "amount": "3101.1", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "15/05/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/05/2017", 
+        "amount": "-300.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/05/2017", 
+        "amount": "-6.2", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/05/2017", 
+        "amount": "-6.72", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/05/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/05/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/05/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/05/2017", 
+        "amount": "-8.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/05/2017", 
+        "amount": "-3.8", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "19/05/2017", 
+        "amount": "-30.0", 
+        "place": "vr lippukauppa", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "20/05/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/05/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola santa f   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/05/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/05/2017", 
+        "amount": "-5.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/05/2017", 
+        "amount": "-19.1", 
+        "place": "pyymaen oma         tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/05/2017", 
+        "amount": "-4.95", 
+        "place": "fazer food services tampereenylio", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/05/2017", 
+        "amount": "-18.33", 
+        "place": "envatomarket3823875 envato.com", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "21/05/2017", 
+        "amount": "-45.7", 
+        "place": "iz *kajon taksilii  espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "01/06/2017", 
+        "amount": "-15.83", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/06/2017", 
+        "amount": "-4.99", 
+        "place": "k supermarket kaisa helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/06/2017", 
+        "amount": "-10.3", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "02/06/2017", 
+        "amount": "-3.0", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "02/06/2017", 
+        "amount": "300.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "03/06/2017", 
+        "amount": "-19.75", 
+        "place": "k supermarket pohjo helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/06/2017", 
+        "amount": "-4.18", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/06/2017", 
+        "amount": "-3.8", 
+        "place": "k supermarket kaisa helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/06/2017", 
+        "amount": "-5.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/06/2017", 
+        "amount": "-15.08", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/06/2017", 
+        "amount": "200.0", 
+        "place": "pasanen else ingrid", 
+        "categories": "other"
+    }, 
+    {
+        "date": "05/06/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "07/06/2017", 
+        "amount": "-100.0", 
+        "place": "changegroup atm2 ls vantaa", 
+        "categories": "other"
+    }, 
+    {
+        "date": "07/06/2017", 
+        "amount": "-8.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/06/2017", 
+        "amount": "-5.18", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "07/06/2017", 
+        "amount": "-100.0", 
+        "place": "via ripetta ang.via roma", 
+        "categories": "other"
+    }, 
+    {
+        "date": "07/06/2017", 
+        "amount": "-59.95", 
+        "place": "zara bocconi        roma", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "07/06/2017", 
+        "amount": "-30.0", 
+        "place": "calvin klein        roma", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "08/06/2017", 
+        "amount": "-19.55", 
+        "place": "uber trip udu3d hel help.uber.com", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "08/06/2017", 
+        "amount": "-5.2", 
+        "place": "italian foods       fiumicino", 
+        "categories": "other"
+    }, 
+    {
+        "date": "08/06/2017", 
+        "amount": "-4.0", 
+        "place": "venchi              fiumicino", 
+        "categories": "other"
+    }, 
+    {
+        "date": "08/06/2017", 
+        "amount": "-42.55", 
+        "place": "cnp ristorante di r roma", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/06/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/06/2017", 
+        "amount": "-65.0", 
+        "place": "radisson blu es hot roma", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "09/06/2017", 
+        "amount": "-9.72", 
+        "place": "www.aliexpress.com  internet", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "09/06/2017", 
+        "amount": "-12.0", 
+        "place": "la torrefazione kam helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/06/2017", 
+        "amount": "-7.98", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "09/06/2017", 
+        "amount": "-26.0", 
+        "place": "vr", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "10/06/2017", 
+        "amount": "200.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/06/2017", 
+        "amount": "-2.59", 
+        "place": "k supermarket kaisa helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "10/06/2017", 
+        "amount": "-10.3", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "10/06/2017", 
+        "amount": "-11.2", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/06/2017", 
+        "amount": "-44.5", 
+        "place": "the lucky basta     espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/06/2017", 
+        "amount": "-2.65", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-3.8", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-21.3", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-4.45", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-9.2", 
+        "place": "stockmann tampere   tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-3.95", 
+        "place": "juvenes             tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-37.95", 
+        "place": "suomalainen kirjaka 00100 helsink", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-6.9", 
+        "place": "habibi helsinki tra helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-14.2", 
+        "place": "juliett service oy  helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-0.95", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-0.89", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "-4.8", 
+        "place": "r hki r-as. lansisi helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/06/2017", 
+        "amount": "1000.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/06/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/06/2017", 
+        "amount": "-900.0", 
+        "place": "transferwise        london", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/06/2017", 
+        "amount": "-4.48", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/06/2017", 
+        "amount": "-11.3", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/06/2017", 
+        "amount": "-12.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/06/2017", 
+        "amount": "-6.48", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "18/06/2017", 
+        "amount": "-2.29", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/06/2017", 
+        "amount": "-9.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/06/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "19/06/2017", 
+        "amount": "-19.9", 
+        "place": "fitness24seven oy", 
+        "categories": "health"
+    }, 
+    {
+        "date": "19/06/2017", 
+        "amount": "-40.0", 
+        "place": "", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "-18.86", 
+        "place": "apteekki toolo      helsinki", 
+        "categories": "health"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "-11.38", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/06/2017", 
+        "amount": "-4.2", 
+        "place": "pure hero oy        helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "22/06/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/06/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "23/06/2017", 
+        "amount": "-11.8", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "24/06/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "24/06/2017", 
+        "amount": "-4.99", 
+        "place": "clas ohlson kam     helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "24/06/2017", 
+        "amount": "-7.98", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "24/06/2017", 
+        "amount": "-28.15", 
+        "place": "stadium kamppi3133  helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "24/06/2017", 
+        "amount": "-8.3", 
+        "place": "r pohjois-haaga     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/06/2017", 
+        "amount": "-10.8", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/06/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/06/2017", 
+        "amount": "-14.7", 
+        "place": "prisma kannelmaki   helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/06/2017", 
+        "amount": "-7.7", 
+        "place": "r hki kampin keskus helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/06/2017", 
+        "amount": "-3.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/06/2017", 
+        "amount": "-10.5", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/06/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "29/06/2017", 
+        "amount": "-18.52", 
+        "place": "k supermarket pohjo helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/06/2017", 
+        "amount": "-12.99", 
+        "place": "apteekki express    helsinki", 
+        "categories": "health"
+    }, 
+    {
+        "date": "30/06/2017", 
+        "amount": "-6.98", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "30/06/2017", 
+        "amount": "-2.1", 
+        "place": "lidl  helsinki  kam helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "31/06/2017", 
+        "amount": "1934.5", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "31/06/2017", 
+        "amount": "-1500.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "31/06/2017", 
+        "amount": "-11.9", 
+        "place": "kotipizza ala-malmi helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-18.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-34.8", 
+        "place": "virolainen seppo    helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-7.94", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-14.35", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-2.15", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "43.0", 
+        "place": "murtaza adnan ali", 
+        "categories": "bills"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-13.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-10.8", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "-9.3", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/07/2017", 
+        "amount": "600.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "05/07/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "05/07/2017", 
+        "amount": "-9.41", 
+        "place": "www.aliexpress.com  internet", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "05/07/2017", 
+        "amount": "-16.47", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "05/07/2017", 
+        "amount": "-8.13", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "05/07/2017", 
+        "amount": "-6.01", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "06/07/2017", 
+        "amount": "-5.9", 
+        "place": "picnic itakesku     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "06/07/2017", 
+        "amount": "-8.4", 
+        "place": "picnic itakesku     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/07/2017", 
+        "amount": "-9.0", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "08/07/2017", 
+        "amount": "-17.4", 
+        "place": "tmi hauler food     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "08/07/2017", 
+        "amount": "-7.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "08/07/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/07/2017", 
+        "amount": "339.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-8.76", 
+        "place": "www.aliexpress.com  london", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-7.2", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-5.0", 
+        "place": "mroom malminrinne   helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-6.5", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-11.69", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-5.49", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/07/2017", 
+        "amount": "-10.77", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "12/07/2017", 
+        "amount": "-20.8", 
+        "place": "picnic kampinto     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "12/07/2017", 
+        "amount": "-23.2", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "12/07/2017", 
+        "amount": "-4.0", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/07/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/07/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/07/2017", 
+        "amount": "-21.4", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/07/2017", 
+        "amount": "-9.0", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/07/2017", 
+        "amount": "-2.5", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "15/07/2017", 
+        "amount": "3177.9", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "15/07/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/07/2017", 
+        "amount": "-3000.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/07/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "15/07/2017", 
+        "amount": "-1.0", 
+        "place": "hsl mobiililippu    00077 hsl", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "15/07/2017", 
+        "amount": "1.0", 
+        "place": "hsl mobiililippu    00077 hsl", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "16/07/2017", 
+        "amount": "-118.49", 
+        "place": "oy srg finland ab", 
+        "categories": "other"
+    }, 
+    {
+        "date": "17/07/2017", 
+        "amount": "-20.0", 
+        "place": "", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-21.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-8.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-7.9", 
+        "place": "hesburger hki k     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-11.74", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "390.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-11.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/07/2017", 
+        "amount": "-6.03", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "19/07/2017", 
+        "amount": "-12.3", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "19/07/2017", 
+        "amount": "-3.9", 
+        "place": "nutramino se        f24s - helsin", 
+        "categories": "other"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "-6.9", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "-2.5", 
+        "place": "picnic kampinto     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "-8.55", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "137.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "-19.9", 
+        "place": "fitness24seven oy", 
+        "categories": "health"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "-25.37", 
+        "place": "dna oy", 
+        "categories": "bills"
+    }, 
+    {
+        "date": "20/07/2017", 
+        "amount": "-61.97", 
+        "place": "vistapr*vistaprint. 866-8936743", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/07/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/07/2017", 
+        "amount": "-24.81", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "21/07/2017", 
+        "amount": "-6.7", 
+        "place": "sokos helsinki      helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "22/07/2017", 
+        "amount": "-5.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/07/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "24/07/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-3.9", 
+        "place": "nutramino se        f24s - helsin", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-18.66", 
+        "place": "s market helsinki   helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-7.7", 
+        "place": "r pohjois-haaga     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-58.7", 
+        "place": "r pohjois-haaga     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-32.7", 
+        "place": "ravintola santa f   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-10.8", 
+        "place": "apollo              helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-6.88", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-19.77", 
+        "place": "s market lassila    helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/07/2017", 
+        "amount": "-10.2", 
+        "place": "bilaal halal elinta helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/07/2017", 
+        "amount": "-8.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/07/2017", 
+        "amount": "-3.78", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "26/07/2017", 
+        "amount": "-50.0", 
+        "place": "kristine", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/07/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "27/07/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "27/07/2017", 
+        "amount": "-5.03", 
+        "place": "k market kamppi     helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "27/07/2017", 
+        "amount": "-6.6", 
+        "place": "fazer ravintolat oy helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "27/07/2017", 
+        "amount": "-2.7", 
+        "place": "espressohouse kampp helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "27/07/2017", 
+        "amount": "-8.1", 
+        "place": "espressohouse kampp helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/07/2017", 
+        "amount": "-20.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "28/07/2017", 
+        "amount": "-6.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "29/07/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar ci helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "29/07/2017", 
+        "amount": "-15.61", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/07/2017", 
+        "amount": "-1.89", 
+        "place": "lidl helsinki   cit helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/07/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "01/08/2017", 
+        "amount": "-15.83", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/08/2017", 
+        "amount": "-4.99", 
+        "place": "k supermarket kaisa helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/08/2017", 
+        "amount": "-10.3", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "02/08/2017", 
+        "amount": "-3.0", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "02/08/2017", 
+        "amount": "300.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "03/08/2017", 
+        "amount": "-19.75", 
+        "place": "k supermarket pohjo helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/08/2017", 
+        "amount": "-4.18", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/08/2017", 
+        "amount": "-3.8", 
+        "place": "k supermarket kaisa helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/08/2017", 
+        "amount": "-5.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/08/2017", 
+        "amount": "-15.08", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/08/2017", 
+        "amount": "200.0", 
+        "place": "pasanen else ingrid", 
+        "categories": "other"
+    }, 
+    {
+        "date": "05/08/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "07/08/2017", 
+        "amount": "-100.0", 
+        "place": "changegroup atm2 ls vantaa", 
+        "categories": "other"
+    }, 
+    {
+        "date": "07/08/2017", 
+        "amount": "-8.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/08/2017", 
+        "amount": "-5.18", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "07/08/2017", 
+        "amount": "-100.0", 
+        "place": "via ripetta ang.via roma", 
+        "categories": "other"
+    }, 
+    {
+        "date": "07/08/2017", 
+        "amount": "-59.95", 
+        "place": "zara bocconi        roma", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "07/08/2017", 
+        "amount": "-30.0", 
+        "place": "calvin klein        roma", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "08/08/2017", 
+        "amount": "-19.55", 
+        "place": "uber trip udu3d hel help.uber.com", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "08/08/2017", 
+        "amount": "-5.2", 
+        "place": "italian foods       fiumicino", 
+        "categories": "other"
+    }, 
+    {
+        "date": "08/08/2017", 
+        "amount": "-4.0", 
+        "place": "venchi              fiumicino", 
+        "categories": "other"
+    }, 
+    {
+        "date": "08/08/2017", 
+        "amount": "-42.55", 
+        "place": "cnp ristorante di r roma", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/08/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/08/2017", 
+        "amount": "-65.0", 
+        "place": "radisson blu es hot roma", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "09/08/2017", 
+        "amount": "-9.72", 
+        "place": "www.aliexpress.com  internet", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "09/08/2017", 
+        "amount": "-12.0", 
+        "place": "la torrefazione kam helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/08/2017", 
+        "amount": "-7.98", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "09/08/2017", 
+        "amount": "-26.0", 
+        "place": "vr", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "10/08/2017", 
+        "amount": "200.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/08/2017", 
+        "amount": "-2.59", 
+        "place": "k supermarket kaisa helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "10/08/2017", 
+        "amount": "-10.3", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "10/08/2017", 
+        "amount": "-11.2", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/08/2017", 
+        "amount": "-44.5", 
+        "place": "the lucky basta     espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/08/2017", 
+        "amount": "-2.65", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-3.8", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-21.3", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-4.45", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-9.2", 
+        "place": "stockmann tampere   tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-3.95", 
+        "place": "juvenes             tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-37.95", 
+        "place": "suomalainen kirjaka 00100 helsink", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-6.9", 
+        "place": "habibi helsinki tra helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-14.2", 
+        "place": "juliett service oy  helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-0.95", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-0.89", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "-4.8", 
+        "place": "r hki r-as. lansisi helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/08/2017", 
+        "amount": "1000.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/08/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/08/2017", 
+        "amount": "-900.0", 
+        "place": "transferwise        london", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/08/2017", 
+        "amount": "-4.48", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/08/2017", 
+        "amount": "-11.3", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/08/2017", 
+        "amount": "-12.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/08/2017", 
+        "amount": "-6.48", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "18/08/2017", 
+        "amount": "-2.29", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/08/2017", 
+        "amount": "-9.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/08/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "19/08/2017", 
+        "amount": "-19.9", 
+        "place": "fitness24seven oy", 
+        "categories": "health"
+    }, 
+    {
+        "date": "19/08/2017", 
+        "amount": "-40.0", 
+        "place": "", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "-18.86", 
+        "place": "apteekki toolo      helsinki", 
+        "categories": "health"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "-11.38", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/08/2017", 
+        "amount": "-4.2", 
+        "place": "pure hero oy        helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "22/08/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/08/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "23/08/2017", 
+        "amount": "-11.8", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "24/08/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "24/08/2017", 
+        "amount": "-4.99", 
+        "place": "clas ohlson kam     helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "24/08/2017", 
+        "amount": "-7.98", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "24/08/2017", 
+        "amount": "-28.15", 
+        "place": "stadium kamppi3133  helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "24/08/2017", 
+        "amount": "-8.3", 
+        "place": "r pohjois-haaga     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/08/2017", 
+        "amount": "-10.8", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/08/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/08/2017", 
+        "amount": "-14.7", 
+        "place": "prisma kannelmaki   helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/08/2017", 
+        "amount": "-7.7", 
+        "place": "r hki kampin keskus helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/08/2017", 
+        "amount": "-3.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/08/2017", 
+        "amount": "-10.5", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/08/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "29/08/2017", 
+        "amount": "-18.52", 
+        "place": "k supermarket pohjo helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/08/2017", 
+        "amount": "-12.99", 
+        "place": "apteekki express    helsinki", 
+        "categories": "health"
+    }, 
+    {
+        "date": "30/08/2017", 
+        "amount": "-6.98", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "30/08/2017", 
+        "amount": "-2.1", 
+        "place": "lidl  helsinki  kam helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "31/08/2017", 
+        "amount": "1934.5", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "31/08/2017", 
+        "amount": "-1500.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "31/08/2017", 
+        "amount": "-11.9", 
+        "place": "kotipizza ala-malmi helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-18.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-34.8", 
+        "place": "virolainen seppo    helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-7.94", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-14.35", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-2.15", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "43.0", 
+        "place": "murtaza adnan ali", 
+        "categories": "bills"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-13.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-10.8", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "-9.3", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "04/09/2017", 
+        "amount": "600.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "05/09/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "05/09/2017", 
+        "amount": "-9.41", 
+        "place": "www.aliexpress.com  internet", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "05/09/2017", 
+        "amount": "-16.47", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "05/09/2017", 
+        "amount": "-8.13", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "05/09/2017", 
+        "amount": "-6.01", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "06/09/2017", 
+        "amount": "-5.9", 
+        "place": "picnic itakesku     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "06/09/2017", 
+        "amount": "-8.4", 
+        "place": "picnic itakesku     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/09/2017", 
+        "amount": "-9.0", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "08/09/2017", 
+        "amount": "-17.4", 
+        "place": "tmi hauler food     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "08/09/2017", 
+        "amount": "-7.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "08/09/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/09/2017", 
+        "amount": "339.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-8.76", 
+        "place": "www.aliexpress.com  london", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-7.2", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-5.0", 
+        "place": "mroom malminrinne   helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-6.5", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-11.69", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-5.49", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "11/09/2017", 
+        "amount": "-10.77", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "12/09/2017", 
+        "amount": "-20.8", 
+        "place": "picnic kampinto     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "12/09/2017", 
+        "amount": "-23.2", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "12/09/2017", 
+        "amount": "-4.0", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/09/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/09/2017", 
+        "amount": "-1.0", 
+        "place": "iss palvelut oy     iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/09/2017", 
+        "amount": "-21.4", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/09/2017", 
+        "amount": "-9.0", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/09/2017", 
+        "amount": "-2.5", 
+        "place": "kappeli             helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "15/09/2017", 
+        "amount": "3177.9", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "15/09/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/09/2017", 
+        "amount": "-3000.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/09/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "15/09/2017", 
+        "amount": "-1.0", 
+        "place": "hsl mobiililippu    00077 hsl", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "15/09/2017", 
+        "amount": "1.0", 
+        "place": "hsl mobiililippu    00077 hsl", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "16/09/2017", 
+        "amount": "-118.49", 
+        "place": "oy srg finland ab", 
+        "categories": "other"
+    }, 
+    {
+        "date": "17/09/2017", 
+        "amount": "-20.0", 
+        "place": "", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-21.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-2.5", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-8.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-7.9", 
+        "place": "hesburger hki k     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-11.74", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "390.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-11.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/09/2017", 
+        "amount": "-6.03", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "19/09/2017", 
+        "amount": "-12.3", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "19/09/2017", 
+        "amount": "-3.9", 
+        "place": "nutramino se        f24s - helsin", 
+        "categories": "other"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "-6.9", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "-2.5", 
+        "place": "picnic kampinto     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "-8.55", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "137.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "-19.9", 
+        "place": "fitness24seven oy", 
+        "categories": "health"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "-25.37", 
+        "place": "dna oy", 
+        "categories": "bills"
+    }, 
+    {
+        "date": "20/09/2017", 
+        "amount": "-61.97", 
+        "place": "vistapr*vistaprint. 866-8936743", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/09/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/09/2017", 
+        "amount": "-24.81", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "21/09/2017", 
+        "amount": "-6.7", 
+        "place": "sokos helsinki      helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "22/09/2017", 
+        "amount": "-5.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/09/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "24/09/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-3.9", 
+        "place": "nutramino se        f24s - helsin", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-18.66", 
+        "place": "s market helsinki   helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-7.7", 
+        "place": "r pohjois-haaga     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-58.7", 
+        "place": "r pohjois-haaga     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-32.7", 
+        "place": "ravintola santa f   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-10.8", 
+        "place": "apollo              helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-6.88", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-19.77", 
+        "place": "s market lassila    helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/09/2017", 
+        "amount": "-10.2", 
+        "place": "bilaal halal elinta helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/09/2017", 
+        "amount": "-8.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/09/2017", 
+        "amount": "-3.78", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "26/09/2017", 
+        "amount": "-50.0", 
+        "place": "kristine", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/09/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "27/09/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "27/09/2017", 
+        "amount": "-5.03", 
+        "place": "k market kamppi     helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "27/09/2017", 
+        "amount": "-6.6", 
+        "place": "fazer ravintolat oy helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "27/09/2017", 
+        "amount": "-2.7", 
+        "place": "espressohouse kampp helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "27/09/2017", 
+        "amount": "-8.1", 
+        "place": "espressohouse kampp helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "28/09/2017", 
+        "amount": "-20.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "28/09/2017", 
+        "amount": "-6.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "29/09/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar ci helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "29/09/2017", 
+        "amount": "-15.61", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/09/2017", 
+        "amount": "-1.89", 
+        "place": "lidl helsinki   cit helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "29/09/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "02/10/2017", 
+        "amount": "-50.0", 
+        "place": "startup sauna oy    358456784007", 
+        "categories": "other"
+    }, 
+    {
+        "date": "02/10/2017", 
+        "amount": "-15.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "02/10/2017", 
+        "amount": "-31.71", 
+        "place": "k supermarket pohjo helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/10/2017", 
+        "amount": "-3.13", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/10/2017", 
+        "amount": "-0.2", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "02/10/2017", 
+        "amount": "-300.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "03/10/2017", 
+        "amount": "-2.99", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "03/10/2017", 
+        "amount": "-5.5", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/10/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/10/2017", 
+        "amount": "-5.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "04/10/2017", 
+        "amount": "-3.0", 
+        "place": "flying tiger copenh helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "05/10/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "05/10/2017", 
+        "amount": "-8.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "05/10/2017", 
+        "amount": "-11.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "05/10/2017", 
+        "amount": "-4.5", 
+        "place": "amin group oy       helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/10/2017", 
+        "amount": "500.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-7.5", 
+        "place": "taxify 17.10.06 230 viimsi", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-40.0", 
+        "place": "changegroup atm3 g1 vantaa", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-3.0", 
+        "place": "selecta             t1 gate 12", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-1.79", 
+        "place": "narvesen baltija 11 riga", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-2.2", 
+        "place": "love riga, skunu    riga", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-22.8", 
+        "place": "makonis             riga", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-6.69", 
+        "place": "apsara, barona 2a   riga", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-12.8", 
+        "place": "apteekki toolo      helsinki", 
+        "categories": "health"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-20.65", 
+        "place": "helsinki market     vantaa", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-30.33", 
+        "place": "rimi sm barona cent riga", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-2.19", 
+        "place": "narvesen 1017       riga", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/10/2017", 
+        "amount": "-8.7", 
+        "place": "taxify 17.10.09 025 viimsi", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "10/10/2017", 
+        "amount": "-1.5", 
+        "place": "narvesen 1029-1     marupes novad", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/10/2017", 
+        "amount": "-2.25", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "10/10/2017", 
+        "amount": "-4.7", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "11/10/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "11/10/2017", 
+        "amount": "-15.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "11/10/2017", 
+        "amount": "-5.0", 
+        "place": "r kauklahti asema   espoo", 
+        "categories": "other"
+    }, 
+    {
+        "date": "12/10/2017", 
+        "amount": "-11.8", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/10/2017", 
+        "amount": "3059.7", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "14/10/2017", 
+        "amount": "-2500.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-3.84", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-10.3", 
+        "place": "ravintola india hou helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-20.96", 
+        "place": "k supermarket pohjo helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-10.8", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-7.7", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/10/2017", 
+        "amount": "-5.9", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "17/10/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "17/10/2017", 
+        "amount": "-8.0", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "17/10/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/10/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "18/10/2017", 
+        "amount": "-11.36", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "19/10/2017", 
+        "amount": "-4.53", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "20/10/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/10/2017", 
+        "amount": "-9.0", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-11.1", 
+        "place": "la torrefazione kam helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-8.7", 
+        "place": "dream friends oy    helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-22.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-7.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-19.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-16.0", 
+        "place": "lasten paivan saati helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "23/10/2017", 
+        "amount": "-14.08", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "24/10/2017", 
+        "amount": "-13.04", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/10/2017", 
+        "amount": "-12.37", 
+        "place": "lidl  helsinki  kam helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/10/2017", 
+        "amount": "-1.78", 
+        "place": "lidl  helsinki  kam helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "25/10/2017", 
+        "amount": "15.0", 
+        "place": "turunen annukka", 
+        "categories": "other"
+    }, 
+    {
+        "date": "26/10/2017", 
+        "amount": "-9.2", 
+        "place": "hesburger hki k     helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "26/10/2017", 
+        "amount": "-5.9", 
+        "place": "picnic kamppi       helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "26/10/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "27/10/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "27/10/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "28/10/2017", 
+        "amount": "-19.9", 
+        "place": "fitness24seven oy", 
+        "categories": "health"
+    }, 
+    {
+        "date": "30/10/2017", 
+        "amount": "-8.0", 
+        "place": "dream friends oy    helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "30/10/2017", 
+        "amount": "-13.5", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "30/10/2017", 
+        "amount": "-9.3", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "30/10/2017", 
+        "amount": "-9.52", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "30/10/2017", 
+        "amount": "-15.32", 
+        "place": "prisma kannelmaki   helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "30/10/2017", 
+        "amount": "-32.1", 
+        "place": "ravintola vapiano   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "31/10/2017", 
+        "amount": "-7.0", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "31/10/2017", 
+        "amount": "-7.7", 
+        "place": "r hki kampin keskus helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "02/11/2017", 
+        "amount": "-7.95", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "03/11/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "03/11/2017", 
+        "amount": "-10.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "05/11/2017", 
+        "amount": "-215.46", 
+        "place": "satokoti oy", 
+        "categories": "rent"
+    }, 
+    {
+        "date": "03/11/2017", 
+        "amount": "-7.5", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-10.2", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-2.5", 
+        "place": "compagnie mat oy ab helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-9.0", 
+        "place": "compagnie mat oy ab helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-8.7", 
+        "place": "dream friends oy    helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-45.55", 
+        "place": "tmi hauler food     helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-14.0", 
+        "place": "ravintola santa f   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "06/11/2017", 
+        "amount": "-14.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/11/2017", 
+        "amount": "-30.55", 
+        "place": "k supermarket kampp helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "07/11/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "07/11/2017", 
+        "amount": "-8.4", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/11/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "09/11/2017", 
+        "amount": "-4.6", 
+        "place": "iss palvelut        iss", 
+        "categories": "other"
+    }, 
+    {
+        "date": "09/11/2017", 
+        "amount": "-2.84", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "09/11/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "10/11/2017", 
+        "amount": "-49.9", 
+        "place": "sokos helsinki      helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "10/11/2017", 
+        "amount": "-0.18", 
+        "place": "sokos helsinki      helsinki", 
+        "categories": "luxury"
+    }, 
+    {
+        "date": "12/11/2017", 
+        "amount": "100.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-3.18", 
+        "place": "k supermarket posti helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-6.5", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-6.4", 
+        "place": "r hki r-as. lansisi helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-17.5", 
+        "place": "iz *kahvila taikap  tampere", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-14.9", 
+        "place": "iz *kahvila taikap  tampere", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-6.0", 
+        "place": "vr tampere asema    tampere", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-2.5", 
+        "place": "avecra oy 7303 ravi helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-13.1", 
+        "place": "makuuni oy          tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "13/11/2017", 
+        "amount": "-1.75", 
+        "place": "mcdonalds fredrikin helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/11/2017", 
+        "amount": "-5.49", 
+        "place": "itunes.com/bill     itunes.com", 
+        "categories": "other"
+    }, 
+    {
+        "date": "14/11/2017", 
+        "amount": "-11.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/11/2017", 
+        "amount": "-7.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "14/11/2017", 
+        "amount": "-24.82", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "15/11/2017", 
+        "amount": "3101.1", 
+        "place": "tieto finland oy", 
+        "categories": "salary"
+    }, 
+    {
+        "date": "15/11/2017", 
+        "amount": "-7.2", 
+        "place": "osuuspankki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/11/2017", 
+        "amount": "-300.0", 
+        "place": "shafiq omer", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/11/2017", 
+        "amount": "-6.2", 
+        "place": "zeberas oy          helsinki", 
+        "categories": "other"
+    }, 
+    {
+        "date": "15/11/2017", 
+        "amount": "-6.72", 
+        "place": "alepa pohjois haaga helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "16/11/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/11/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/11/2017", 
+        "amount": "-4.95", 
+        "place": "jungle juice bar to helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/11/2017", 
+        "amount": "-8.0", 
+        "place": "assaresta oy        helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "17/11/2017", 
+        "amount": "-3.8", 
+        "place": "alepa kampin keskus helsinki", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "19/11/2017", 
+        "amount": "-30.0", 
+        "place": "vr lippukauppa", 
+        "categories": "travel"
+    }, 
+    {
+        "date": "20/11/2017", 
+        "amount": "-13.5", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/11/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola santa f   helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "20/11/2017", 
+        "amount": "-15.0", 
+        "place": "ravintola tuplaassa helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/11/2017", 
+        "amount": "-5.0", 
+        "place": "mathyruban          helsinki", 
+        "categories": "eating outside"
+    }, 
+    {
+        "date": "21/11/2017", 
+        "amount": "-19.1", 
+        "place": "pyymaen oma         tampere", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/11/2017", 
+        "amount": "-4.95", 
+        "place": "fazer food services tampereenylio", 
+        "categories": "other"
+    }, 
+    {
+        "date": "21/11/2017", 
+        "amount": "-18.33", 
+        "place": "envatomarket3823875 envato.com", 
+        "categories": "groceries"
+    }, 
+    {
+        "date": "21/11/2017", 
+        "amount": "-45.7", 
+        "place": "iz *kajon taksilii  espoo", 
+        "categories": "other"
+    }
+]
