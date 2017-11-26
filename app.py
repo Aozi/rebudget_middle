@@ -1,12 +1,14 @@
 import os
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
+from flask_marshmallow import Marshmallow
 from sqlalchemy.orm import relationship
 import flask.ext.restless
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
 db = SQLAlchemy(app)
+ma = Marshmallow(app)
 session = db.sessionmaker(bind=db.get_engine())
 
 # Create our database model
