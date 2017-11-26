@@ -103,9 +103,10 @@ def get_transactions():
 
 @app.route("/golden_value",methods=['GET'])
 def get_golden_value():
-    sql_q =text("SELECT ABS(amount) FROM transaction WHERE category in ('groceries', 'rent', 'health', 'bills')")
-    result = db.engine.execute(sql_q)
-    print result
+    result = session().execute('SELECT ABS(amount) FROM transaction WHERE category IN ('groceries','rent','health','bills')')
+    #Use the machine learning algorithms here to analyze the database and find a proper golden value
+
+
 
 
 if __name__ == '__main__':
