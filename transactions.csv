@@ -1,0 +1,555 @@
+date,amount,place,categories
+02/05/2017,-7.95,k supermarket posti helsinki,groceries
+03/05/2017,-4.95,jungle juice bar to helsinki,eating outside
+03/05/2017,-10.0,mathyruban          helsinki,eating outside
+05/05/2017,-215.46,satokoti oy,rent
+03/05/2017,-7.5,assaresta oy        helsinki,eating outside
+06/05/2017,-10.2,zeberas oy          helsinki,other
+06/05/2017,-2.5,compagnie mat oy ab helsinki,other
+06/05/2017,-9.0,compagnie mat oy ab helsinki,other
+06/05/2017,-8.7,dream friends oy    helsinki,other
+06/05/2017,-45.55,tmi hauler food     helsinki,other
+06/05/2017,-14.0,ravintola santa f   helsinki,eating outside
+06/05/2017,-14.0,assaresta oy        helsinki,eating outside
+07/05/2017,-30.55,k supermarket kampp helsinki,groceries
+07/05/2017,-4.95,jungle juice bar to helsinki,eating outside
+07/05/2017,-8.4,iss palvelut        iss,other
+09/05/2017,-4.95,jungle juice bar to helsinki,eating outside
+09/05/2017,-4.6,iss palvelut        iss,other
+09/05/2017,-2.84,alepa kampin keskus helsinki,groceries
+09/05/2017,100.0,shafiq omer,other
+10/05/2017,-49.9,sokos helsinki      helsinki,luxury
+10/05/2017,-0.18,sokos helsinki      helsinki,luxury
+12/05/2017,100.0,shafiq omer,other
+13/05/2017,-3.18,k supermarket posti helsinki,groceries
+13/05/2017,-6.5,assaresta oy        helsinki,eating outside
+13/05/2017,-6.4,r hki r-as. lansisi helsinki,other
+13/05/2017,-17.5,iz *kahvila taikap  tampere,eating outside
+13/05/2017,-14.9,iz *kahvila taikap  tampere,eating outside
+13/05/2017,-6.0,vr tampere asema    tampere,travel
+13/05/2017,-2.5,avecra oy 7303 ravi helsinki,other
+13/05/2017,-13.1,makuuni oy          tampere,other
+13/05/2017,-1.75,mcdonalds fredrikin helsinki,eating outside
+14/05/2017,-5.49,itunes.com/bill     itunes.com,other
+14/05/2017,-11.5,mathyruban          helsinki,eating outside
+14/05/2017,-7.0,assaresta oy        helsinki,eating outside
+14/05/2017,-24.82,alepa pohjois haaga helsinki,groceries
+15/05/2017,3101.1,tieto finland oy,salary
+15/05/2017,-7.2,osuuspankki,other
+15/05/2017,-300.0,shafiq omer,other
+15/05/2017,-6.2,zeberas oy          helsinki,other
+15/05/2017,-6.72,alepa pohjois haaga helsinki,groceries
+16/05/2017,-4.95,jungle juice bar to helsinki,eating outside
+17/05/2017,-13.5,mathyruban          helsinki,eating outside
+17/05/2017,-4.95,jungle juice bar to helsinki,eating outside
+17/05/2017,-8.0,assaresta oy        helsinki,eating outside
+17/05/2017,-3.8,alepa kampin keskus helsinki,groceries
+19/05/2017,-30.0,vr lippukauppa,travel
+20/05/2017,-13.5,mathyruban          helsinki,eating outside
+20/05/2017,-15.0,ravintola santa f   helsinki,eating outside
+20/05/2017,-15.0,ravintola tuplaassa helsinki,eating outside
+21/05/2017,-5.0,mathyruban          helsinki,eating outside
+21/05/2017,-19.1,pyymaen oma         tampere,other
+21/05/2017,-4.95,fazer food services tampereenylio,other
+21/05/2017,-18.33,envatomarket3823875 envato.com,groceries
+21/05/2017,-45.7,iz *kajon taksilii  espoo,other
+01/06/2017,-15.83,k supermarket posti helsinki,groceries
+02/06/2017,-4.99,k supermarket kaisa helsinki,groceries
+02/06/2017,-10.3,ravintola india hou helsinki,eating outside
+02/06/2017,-3.0,flying tiger copenh helsinki,other
+02/06/2017,300.0,shafiq omer,other
+03/06/2017,-19.75,k supermarket pohjo helsinki,groceries
+04/06/2017,-4.18,k supermarket posti helsinki,groceries
+04/06/2017,-3.8,k supermarket kaisa helsinki,groceries
+04/06/2017,-5.9,picnic kamppi       helsinki,eating outside
+04/06/2017,-15.08,alepa pohjois haaga helsinki,groceries
+04/06/2017,200.0,pasanen else ingrid,other
+05/06/2017,-215.46,satokoti oy,rent
+07/06/2017,-100.0,changegroup atm2 ls vantaa,other
+07/06/2017,-8.5,mathyruban          helsinki,eating outside
+07/06/2017,-5.18,alepa pohjois haaga helsinki,groceries
+07/06/2017,-100.0,via ripetta ang.via roma,other
+07/06/2017,-59.95,zara bocconi        roma,luxury
+07/06/2017,-30.0,calvin klein        roma,luxury
+08/06/2017,-19.55,uber trip udu3d hel help.uber.com,travel
+08/06/2017,-5.2,italian foods       fiumicino,other
+08/06/2017,-4.0,venchi              fiumicino,other
+08/06/2017,-42.55,cnp ristorante di r roma,other
+09/06/2017,100.0,shafiq omer,other
+09/06/2017,-65.0,radisson blu es hot roma,luxury
+09/06/2017,-9.72,www.aliexpress.com  internet,luxury
+09/06/2017,-12.0,la torrefazione kam helsinki,other
+09/06/2017,-7.98,alepa pohjois haaga helsinki,groceries
+09/06/2017,-26.0,vr,travel
+10/06/2017,200.0,shafiq omer,other
+10/06/2017,-2.59,k supermarket kaisa helsinki,groceries
+10/06/2017,-10.3,ravintola india hou helsinki,eating outside
+10/06/2017,-11.2,r kauklahti asema   espoo,other
+11/06/2017,-44.5,the lucky basta     espoo,other
+11/06/2017,-2.65,alepa pohjois haaga helsinki,groceries
+14/06/2017,-3.8,k supermarket posti helsinki,groceries
+14/06/2017,-21.3,k supermarket posti helsinki,groceries
+14/06/2017,-4.45,alepa pohjois haaga helsinki,groceries
+14/06/2017,-9.2,stockmann tampere   tampere,other
+14/06/2017,-3.95,juvenes             tampere,other
+14/06/2017,-37.95,suomalainen kirjaka 00100 helsink,other
+14/06/2017,-6.9,habibi helsinki tra helsinki,other
+14/06/2017,-14.2,juliett service oy  helsinki,other
+14/06/2017,-0.95,alepa pohjois haaga helsinki,groceries
+14/06/2017,-0.89,alepa kampin keskus helsinki,groceries
+14/06/2017,-4.8,r hki r-as. lansisi helsinki,other
+14/06/2017,1000.0,shafiq omer,other
+15/06/2017,-7.2,osuuspankki,other
+15/06/2017,-900.0,transferwise        london,other
+15/06/2017,-4.48,k supermarket kampp helsinki,groceries
+16/06/2017,-11.3,kappeli             helsinki,eating outside
+17/06/2017,-12.0,mathyruban          helsinki,eating outside
+17/06/2017,-6.48,k supermarket kampp helsinki,groceries
+18/06/2017,-2.29,itunes.com/bill     itunes.com,other
+18/06/2017,-9.0,mathyruban          helsinki,eating outside
+18/06/2017,-1.0,iss palvelut oy     iss,other
+19/06/2017,-19.9,fitness24seven oy,health
+19/06/2017,-40.0,,other
+21/06/2017,-10.0,mathyruban          helsinki,eating outside
+21/06/2017,-2.5,r kauklahti asema   espoo,other
+21/06/2017,-18.86,apteekki toolo      helsinki,health
+21/06/2017,-11.38,alepa pohjois haaga helsinki,groceries
+21/06/2017,100.0,shafiq omer,other
+21/06/2017,-10.0,mathyruban          helsinki,eating outside
+21/06/2017,-4.2,pure hero oy        helsinki,other
+22/06/2017,-15.0,ravintola india hou helsinki,eating outside
+23/06/2017,-1.0,iss palvelut oy     iss,other
+23/06/2017,-11.8,picnic kamppi       helsinki,eating outside
+24/06/2017,-10.0,mathyruban          helsinki,eating outside
+24/06/2017,-4.99,clas ohlson kam     helsinki,groceries
+24/06/2017,-7.98,alepa pohjois haaga helsinki,groceries
+24/06/2017,-28.15,stadium kamppi3133  helsinki,luxury
+24/06/2017,-8.3,r pohjois-haaga     helsinki,other
+25/06/2017,-10.8,assaresta oy        helsinki,eating outside
+25/06/2017,100.0,shafiq omer,other
+28/06/2017,-14.7,prisma kannelmaki   helsinki,other
+28/06/2017,-7.7,r hki kampin keskus helsinki,other
+28/06/2017,-3.0,iss palvelut        iss,other
+28/06/2017,-10.5,alepa pohjois haaga helsinki,groceries
+29/06/2017,-10.0,mathyruban          helsinki,eating outside
+29/06/2017,-18.52,k supermarket pohjo helsinki,groceries
+29/06/2017,-12.99,apteekki express    helsinki,health
+30/06/2017,-6.98,itunes.com/bill     itunes.com,other
+30/06/2017,-2.1,lidl  helsinki  kam helsinki,groceries
+31/06/2017,1934.5,tieto finland oy,salary
+31/06/2017,-1500.0,shafiq omer,other
+31/06/2017,-11.9,kotipizza ala-malmi helsinki,eating outside
+04/07/2017,-18.0,mathyruban          helsinki,eating outside
+04/07/2017,-34.8,virolainen seppo    helsinki,other
+04/07/2017,-1.0,iss palvelut oy     iss,other
+04/07/2017,-7.94,alepa pohjois haaga helsinki,groceries
+04/07/2017,-14.35,alepa pohjois haaga helsinki,groceries
+04/07/2017,-2.15,alepa pohjois haaga helsinki,groceries
+04/07/2017,43.0,murtaza adnan ali,bills
+04/07/2017,-13.0,mathyruban          helsinki,eating outside
+04/07/2017,-10.0,mathyruban          helsinki,eating outside
+04/07/2017,-10.8,assaresta oy        helsinki,eating outside
+04/07/2017,-9.3,alepa pohjois haaga helsinki,groceries
+04/07/2017,600.0,shafiq omer,other
+05/07/2017,-215.46,satokoti oy,rent
+05/07/2017,-9.41,www.aliexpress.com  internet,luxury
+05/07/2017,-16.47,alepa pohjois haaga helsinki,groceries
+05/07/2017,-8.13,alepa pohjois haaga helsinki,groceries
+05/07/2017,-6.01,alepa pohjois haaga helsinki,groceries
+06/07/2017,-5.9,picnic itakesku     helsinki,eating outside
+06/07/2017,-8.4,picnic itakesku     helsinki,eating outside
+07/07/2017,-9.0,alepa pohjois haaga helsinki,groceries
+08/07/2017,-17.4,tmi hauler food     helsinki,other
+08/07/2017,-7.9,picnic kamppi       helsinki,eating outside
+08/07/2017,-2.5,r kauklahti asema   espoo,other
+10/07/2017,339.0,shafiq omer,other
+11/07/2017,-8.76,www.aliexpress.com  london,luxury
+11/07/2017,-7.2,iss palvelut        iss,other
+11/07/2017,-5.0,mroom malminrinne   helsinki,luxury
+11/07/2017,-6.5,assaresta oy        helsinki,eating outside
+11/07/2017,-11.69,alepa pohjois haaga helsinki,groceries
+11/07/2017,-2.5,r kauklahti asema   espoo,other
+11/07/2017,-5.49,itunes.com/bill     itunes.com,other
+11/07/2017,-10.77,alepa pohjois haaga helsinki,groceries
+12/07/2017,-20.8,picnic kampinto     helsinki,eating outside
+12/07/2017,-23.2,flying tiger copenh helsinki,other
+12/07/2017,-4.0,flying tiger copenh helsinki,other
+13/07/2017,-10.0,mathyruban          helsinki,eating outside
+13/07/2017,-1.0,iss palvelut oy     iss,other
+14/07/2017,-21.4,kappeli             helsinki,eating outside
+14/07/2017,-9.0,kappeli             helsinki,eating outside
+14/07/2017,-2.5,kappeli             helsinki,eating outside
+15/07/2017,3177.9,tieto finland oy,salary
+15/07/2017,-7.2,osuuspankki,other
+15/07/2017,-3000.0,shafiq omer,other
+15/07/2017,-10.0,mathyruban          helsinki,eating outside
+15/07/2017,-1.0,hsl mobiililippu    00077 hsl,travel
+15/07/2017,1.0,hsl mobiililippu    00077 hsl,travel
+16/07/2017,-118.49,oy srg finland ab,other
+17/07/2017,-20.0,,other
+18/07/2017,-21.5,mathyruban          helsinki,eating outside
+18/07/2017,-2.5,r kauklahti asema   espoo,other
+18/07/2017,-8.0,iss palvelut        iss,other
+18/07/2017,-7.9,hesburger hki k     helsinki,eating outside
+18/07/2017,-11.74,alepa pohjois haaga helsinki,groceries
+18/07/2017,390.0,shafiq omer,other
+18/07/2017,-11.0,assaresta oy        helsinki,eating outside
+18/07/2017,-6.03,alepa pohjois haaga helsinki,groceries
+19/07/2017,-12.3,zeberas oy          helsinki,other
+19/07/2017,-3.9,nutramino se        f24s - helsin,other
+20/07/2017,-6.9,zeberas oy          helsinki,other
+20/07/2017,-2.5,picnic kampinto     helsinki,eating outside
+20/07/2017,-8.55,alepa kampin keskus helsinki,groceries
+20/07/2017,137.0,shafiq omer,other
+20/07/2017,-19.9,fitness24seven oy,health
+20/07/2017,-25.37,dna oy,bills
+20/07/2017,-61.97,vistapr*vistaprint. 866-8936743,other
+21/07/2017,-13.5,mathyruban          helsinki,eating outside
+21/07/2017,-24.81,k supermarket posti helsinki,groceries
+21/07/2017,-6.7,sokos helsinki      helsinki,luxury
+22/07/2017,-5.9,picnic kamppi       helsinki,eating outside
+23/07/2017,100.0,shafiq omer,other
+24/07/2017,100.0,shafiq omer,other
+25/07/2017,-10.0,mathyruban          helsinki,eating outside
+25/07/2017,-4.95,jungle juice bar to helsinki,eating outside
+25/07/2017,-3.9,nutramino se        f24s - helsin,other
+25/07/2017,-18.66,s market helsinki   helsinki,groceries
+25/07/2017,-7.7,r pohjois-haaga     helsinki,other
+25/07/2017,-58.7,r pohjois-haaga     helsinki,other
+25/07/2017,-32.7,ravintola santa f   helsinki,eating outside
+25/07/2017,-10.8,apollo              helsinki,other
+25/07/2017,-6.88,alepa pohjois haaga helsinki,groceries
+25/07/2017,-19.77,s market lassila    helsinki,groceries
+25/07/2017,-10.2,bilaal halal elinta helsinki,other
+26/07/2017,-8.0,iss palvelut        iss,other
+26/07/2017,-3.78,alepa pohjois haaga helsinki,groceries
+26/07/2017,-50.0,kristine,other
+26/07/2017,100.0,shafiq omer,other
+27/07/2017,-10.0,mathyruban          helsinki,eating outside
+27/07/2017,-5.03,k market kamppi     helsinki,groceries
+27/07/2017,-6.6,fazer ravintolat oy helsinki,eating outside
+27/07/2017,-2.7,espressohouse kampp helsinki,other
+27/07/2017,-8.1,espressohouse kampp helsinki,other
+28/07/2017,-20.0,mathyruban          helsinki,eating outside
+28/07/2017,-6.0,iss palvelut        iss,other
+29/07/2017,-4.95,jungle juice bar ci helsinki,eating outside
+29/07/2017,-15.61,k supermarket posti helsinki,groceries
+29/07/2017,-1.89,lidl helsinki   cit helsinki,groceries
+29/07/2017,100.0,shafiq omer,other
+01/08/2017,-15.83,k supermarket posti helsinki,groceries
+02/08/2017,-4.99,k supermarket kaisa helsinki,groceries
+02/08/2017,-10.3,ravintola india hou helsinki,eating outside
+02/08/2017,-3.0,flying tiger copenh helsinki,other
+02/08/2017,300.0,shafiq omer,other
+03/08/2017,-19.75,k supermarket pohjo helsinki,groceries
+04/08/2017,-4.18,k supermarket posti helsinki,groceries
+04/08/2017,-3.8,k supermarket kaisa helsinki,groceries
+04/08/2017,-5.9,picnic kamppi       helsinki,eating outside
+04/08/2017,-15.08,alepa pohjois haaga helsinki,groceries
+04/08/2017,200.0,pasanen else ingrid,other
+05/08/2017,-215.46,satokoti oy,rent
+07/08/2017,-100.0,changegroup atm2 ls vantaa,other
+07/08/2017,-8.5,mathyruban          helsinki,eating outside
+07/08/2017,-5.18,alepa pohjois haaga helsinki,groceries
+07/08/2017,-100.0,via ripetta ang.via roma,other
+07/08/2017,-59.95,zara bocconi        roma,luxury
+07/08/2017,-30.0,calvin klein        roma,luxury
+08/08/2017,-19.55,uber trip udu3d hel help.uber.com,travel
+08/08/2017,-5.2,italian foods       fiumicino,other
+08/08/2017,-4.0,venchi              fiumicino,other
+08/08/2017,-42.55,cnp ristorante di r roma,other
+09/08/2017,100.0,shafiq omer,other
+09/08/2017,-65.0,radisson blu es hot roma,luxury
+09/08/2017,-9.72,www.aliexpress.com  internet,luxury
+09/08/2017,-12.0,la torrefazione kam helsinki,other
+09/08/2017,-7.98,alepa pohjois haaga helsinki,groceries
+09/08/2017,-26.0,vr,travel
+10/08/2017,200.0,shafiq omer,other
+10/08/2017,-2.59,k supermarket kaisa helsinki,groceries
+10/08/2017,-10.3,ravintola india hou helsinki,eating outside
+10/08/2017,-11.2,r kauklahti asema   espoo,other
+11/08/2017,-44.5,the lucky basta     espoo,other
+11/08/2017,-2.65,alepa pohjois haaga helsinki,groceries
+14/08/2017,-3.8,k supermarket posti helsinki,groceries
+14/08/2017,-21.3,k supermarket posti helsinki,groceries
+14/08/2017,-4.45,alepa pohjois haaga helsinki,groceries
+14/08/2017,-9.2,stockmann tampere   tampere,other
+14/08/2017,-3.95,juvenes             tampere,other
+14/08/2017,-37.95,suomalainen kirjaka 00100 helsink,other
+14/08/2017,-6.9,habibi helsinki tra helsinki,other
+14/08/2017,-14.2,juliett service oy  helsinki,other
+14/08/2017,-0.95,alepa pohjois haaga helsinki,groceries
+14/08/2017,-0.89,alepa kampin keskus helsinki,groceries
+14/08/2017,-4.8,r hki r-as. lansisi helsinki,other
+14/08/2017,1000.0,shafiq omer,other
+15/08/2017,-7.2,osuuspankki,other
+15/08/2017,-900.0,transferwise        london,other
+15/08/2017,-4.48,k supermarket kampp helsinki,groceries
+16/08/2017,-11.3,kappeli             helsinki,eating outside
+17/08/2017,-12.0,mathyruban          helsinki,eating outside
+17/08/2017,-6.48,k supermarket kampp helsinki,groceries
+18/08/2017,-2.29,itunes.com/bill     itunes.com,other
+18/08/2017,-9.0,mathyruban          helsinki,eating outside
+18/08/2017,-1.0,iss palvelut oy     iss,other
+19/08/2017,-19.9,fitness24seven oy,health
+19/08/2017,-40.0,,other
+21/08/2017,-10.0,mathyruban          helsinki,eating outside
+21/08/2017,-2.5,r kauklahti asema   espoo,other
+21/08/2017,-18.86,apteekki toolo      helsinki,health
+21/08/2017,-11.38,alepa pohjois haaga helsinki,groceries
+21/08/2017,100.0,shafiq omer,other
+21/08/2017,-10.0,mathyruban          helsinki,eating outside
+21/08/2017,-4.2,pure hero oy        helsinki,other
+22/08/2017,-15.0,ravintola india hou helsinki,eating outside
+23/08/2017,-1.0,iss palvelut oy     iss,other
+23/08/2017,-11.8,picnic kamppi       helsinki,eating outside
+24/08/2017,-10.0,mathyruban          helsinki,eating outside
+24/08/2017,-4.99,clas ohlson kam     helsinki,groceries
+24/08/2017,-7.98,alepa pohjois haaga helsinki,groceries
+24/08/2017,-28.15,stadium kamppi3133  helsinki,luxury
+24/08/2017,-8.3,r pohjois-haaga     helsinki,other
+25/08/2017,-10.8,assaresta oy        helsinki,eating outside
+25/08/2017,100.0,shafiq omer,other
+28/08/2017,-14.7,prisma kannelmaki   helsinki,other
+28/08/2017,-7.7,r hki kampin keskus helsinki,other
+28/08/2017,-3.0,iss palvelut        iss,other
+28/08/2017,-10.5,alepa pohjois haaga helsinki,groceries
+29/08/2017,-10.0,mathyruban          helsinki,eating outside
+29/08/2017,-18.52,k supermarket pohjo helsinki,groceries
+29/08/2017,-12.99,apteekki express    helsinki,health
+30/08/2017,-6.98,itunes.com/bill     itunes.com,other
+30/08/2017,-2.1,lidl  helsinki  kam helsinki,groceries
+31/08/2017,1934.5,tieto finland oy,salary
+31/08/2017,-1500.0,shafiq omer,other
+31/08/2017,-11.9,kotipizza ala-malmi helsinki,eating outside
+04/09/2017,-18.0,mathyruban          helsinki,eating outside
+04/09/2017,-34.8,virolainen seppo    helsinki,other
+04/09/2017,-1.0,iss palvelut oy     iss,other
+04/09/2017,-7.94,alepa pohjois haaga helsinki,groceries
+04/09/2017,-14.35,alepa pohjois haaga helsinki,groceries
+04/09/2017,-2.15,alepa pohjois haaga helsinki,groceries
+04/09/2017,43.0,murtaza adnan ali,bills
+04/09/2017,-13.0,mathyruban          helsinki,eating outside
+04/09/2017,-10.0,mathyruban          helsinki,eating outside
+04/09/2017,-10.8,assaresta oy        helsinki,eating outside
+04/09/2017,-9.3,alepa pohjois haaga helsinki,groceries
+04/09/2017,600.0,shafiq omer,other
+05/09/2017,-215.46,satokoti oy,rent
+05/09/2017,-9.41,www.aliexpress.com  internet,luxury
+05/09/2017,-16.47,alepa pohjois haaga helsinki,groceries
+05/09/2017,-8.13,alepa pohjois haaga helsinki,groceries
+05/09/2017,-6.01,alepa pohjois haaga helsinki,groceries
+06/09/2017,-5.9,picnic itakesku     helsinki,eating outside
+06/09/2017,-8.4,picnic itakesku     helsinki,eating outside
+07/09/2017,-9.0,alepa pohjois haaga helsinki,groceries
+08/09/2017,-17.4,tmi hauler food     helsinki,other
+08/09/2017,-7.9,picnic kamppi       helsinki,eating outside
+08/09/2017,-2.5,r kauklahti asema   espoo,other
+10/09/2017,339.0,shafiq omer,other
+11/09/2017,-8.76,www.aliexpress.com  london,luxury
+11/09/2017,-7.2,iss palvelut        iss,other
+11/09/2017,-5.0,mroom malminrinne   helsinki,luxury
+11/09/2017,-6.5,assaresta oy        helsinki,eating outside
+11/09/2017,-11.69,alepa pohjois haaga helsinki,groceries
+11/09/2017,-2.5,r kauklahti asema   espoo,other
+11/09/2017,-5.49,itunes.com/bill     itunes.com,other
+11/09/2017,-10.77,alepa pohjois haaga helsinki,groceries
+12/09/2017,-20.8,picnic kampinto     helsinki,eating outside
+12/09/2017,-23.2,flying tiger copenh helsinki,other
+12/09/2017,-4.0,flying tiger copenh helsinki,other
+13/09/2017,-10.0,mathyruban          helsinki,eating outside
+13/09/2017,-1.0,iss palvelut oy     iss,other
+14/09/2017,-21.4,kappeli             helsinki,eating outside
+14/09/2017,-9.0,kappeli             helsinki,eating outside
+14/09/2017,-2.5,kappeli             helsinki,eating outside
+15/09/2017,3177.9,tieto finland oy,salary
+15/09/2017,-7.2,osuuspankki,other
+15/09/2017,-3000.0,shafiq omer,other
+15/09/2017,-10.0,mathyruban          helsinki,eating outside
+15/09/2017,-1.0,hsl mobiililippu    00077 hsl,travel
+15/09/2017,1.0,hsl mobiililippu    00077 hsl,travel
+16/09/2017,-118.49,oy srg finland ab,other
+17/09/2017,-20.0,,other
+18/09/2017,-21.5,mathyruban          helsinki,eating outside
+18/09/2017,-2.5,r kauklahti asema   espoo,other
+18/09/2017,-8.0,iss palvelut        iss,other
+18/09/2017,-7.9,hesburger hki k     helsinki,eating outside
+18/09/2017,-11.74,alepa pohjois haaga helsinki,groceries
+18/09/2017,390.0,shafiq omer,other
+18/09/2017,-11.0,assaresta oy        helsinki,eating outside
+18/09/2017,-6.03,alepa pohjois haaga helsinki,groceries
+19/09/2017,-12.3,zeberas oy          helsinki,other
+19/09/2017,-3.9,nutramino se        f24s - helsin,other
+20/09/2017,-6.9,zeberas oy          helsinki,other
+20/09/2017,-2.5,picnic kampinto     helsinki,eating outside
+20/09/2017,-8.55,alepa kampin keskus helsinki,groceries
+20/09/2017,137.0,shafiq omer,other
+20/09/2017,-19.9,fitness24seven oy,health
+20/09/2017,-25.37,dna oy,bills
+20/09/2017,-61.97,vistapr*vistaprint. 866-8936743,other
+21/09/2017,-13.5,mathyruban          helsinki,eating outside
+21/09/2017,-24.81,k supermarket posti helsinki,groceries
+21/09/2017,-6.7,sokos helsinki      helsinki,luxury
+22/09/2017,-5.9,picnic kamppi       helsinki,eating outside
+23/09/2017,100.0,shafiq omer,other
+24/09/2017,100.0,shafiq omer,other
+25/09/2017,-10.0,mathyruban          helsinki,eating outside
+25/09/2017,-4.95,jungle juice bar to helsinki,eating outside
+25/09/2017,-3.9,nutramino se        f24s - helsin,other
+25/09/2017,-18.66,s market helsinki   helsinki,groceries
+25/09/2017,-7.7,r pohjois-haaga     helsinki,other
+25/09/2017,-58.7,r pohjois-haaga     helsinki,other
+25/09/2017,-32.7,ravintola santa f   helsinki,eating outside
+25/09/2017,-10.8,apollo              helsinki,other
+25/09/2017,-6.88,alepa pohjois haaga helsinki,groceries
+25/09/2017,-19.77,s market lassila    helsinki,groceries
+25/09/2017,-10.2,bilaal halal elinta helsinki,other
+26/09/2017,-8.0,iss palvelut        iss,other
+26/09/2017,-3.78,alepa pohjois haaga helsinki,groceries
+26/09/2017,-50.0,kristine,other
+26/09/2017,100.0,shafiq omer,other
+27/09/2017,-10.0,mathyruban          helsinki,eating outside
+27/09/2017,-5.03,k market kamppi     helsinki,groceries
+27/09/2017,-6.6,fazer ravintolat oy helsinki,eating outside
+27/09/2017,-2.7,espressohouse kampp helsinki,other
+27/09/2017,-8.1,espressohouse kampp helsinki,other
+28/09/2017,-20.0,mathyruban          helsinki,eating outside
+28/09/2017,-6.0,iss palvelut        iss,other
+29/09/2017,-4.95,jungle juice bar ci helsinki,eating outside
+29/09/2017,-15.61,k supermarket posti helsinki,groceries
+29/09/2017,-1.89,lidl helsinki   cit helsinki,groceries
+29/09/2017,100.0,shafiq omer,other
+02/10/2017,-50.0,startup sauna oy    358456784007,other
+02/10/2017,-15.0,assaresta oy        helsinki,eating outside
+02/10/2017,-31.71,k supermarket pohjo helsinki,groceries
+02/10/2017,-3.13,alepa pohjois haaga helsinki,groceries
+02/10/2017,-0.2,alepa pohjois haaga helsinki,groceries
+02/10/2017,-300.0,shafiq omer,other
+03/10/2017,-2.99,k supermarket kampp helsinki,groceries
+03/10/2017,-5.5,jungle juice bar to helsinki,eating outside
+04/10/2017,-10.0,mathyruban          helsinki,eating outside
+04/10/2017,-5.9,picnic kamppi       helsinki,eating outside
+04/10/2017,-3.0,flying tiger copenh helsinki,other
+05/10/2017,-215.46,satokoti oy,rent
+05/10/2017,-8.0,iss palvelut        iss,other
+05/10/2017,-11.0,assaresta oy        helsinki,eating outside
+05/10/2017,-4.5,amin group oy       helsinki,other
+06/10/2017,500.0,shafiq omer,other
+09/10/2017,-7.5,taxify 17.10.06 230 viimsi,travel
+09/10/2017,-40.0,changegroup atm3 g1 vantaa,other
+09/10/2017,-3.0,selecta             t1 gate 12,other
+09/10/2017,-1.79,narvesen baltija 11 riga,other
+09/10/2017,-2.2,"love riga, skunu    riga",other
+09/10/2017,-22.8,makonis             riga,other
+09/10/2017,-6.69,"apsara, barona 2a   riga",other
+09/10/2017,-12.8,apteekki toolo      helsinki,health
+09/10/2017,-20.65,helsinki market     vantaa,groceries
+09/10/2017,-30.33,rimi sm barona cent riga,other
+09/10/2017,-2.19,narvesen 1017       riga,other
+09/10/2017,-8.7,taxify 17.10.09 025 viimsi,travel
+10/10/2017,-1.5,narvesen 1029-1     marupes novad,other
+10/10/2017,-2.25,k supermarket kampp helsinki,groceries
+10/10/2017,-4.7,picnic kamppi       helsinki,eating outside
+11/10/2017,-10.0,mathyruban          helsinki,eating outside
+11/10/2017,-15.0,assaresta oy        helsinki,eating outside
+11/10/2017,-5.0,r kauklahti asema   espoo,other
+12/10/2017,-11.8,picnic kamppi       helsinki,eating outside
+13/10/2017,3059.7,tieto finland oy,salary
+14/10/2017,-2500.0,shafiq omer,other
+16/10/2017,-10.0,mathyruban          helsinki,eating outside
+16/10/2017,-3.84,k supermarket posti helsinki,groceries
+16/10/2017,-10.3,ravintola india hou helsinki,eating outside
+16/10/2017,-10.0,mathyruban          helsinki,eating outside
+16/10/2017,-20.96,k supermarket pohjo helsinki,groceries
+16/10/2017,-10.8,assaresta oy        helsinki,eating outside
+16/10/2017,-7.7,alepa pohjois haaga helsinki,groceries
+16/10/2017,-5.9,alepa pohjois haaga helsinki,groceries
+17/10/2017,-7.2,osuuspankki,other
+17/10/2017,-8.0,iss palvelut        iss,other
+17/10/2017,-15.0,ravintola tuplaassa helsinki,eating outside
+17/10/2017,-4.95,jungle juice bar to helsinki,eating outside
+18/10/2017,-11.36,k supermarket kampp helsinki,groceries
+19/10/2017,-4.53,alepa kampin keskus helsinki,groceries
+20/10/2017,-10.0,mathyruban          helsinki,eating outside
+20/10/2017,-9.0,ravintola tuplaassa helsinki,eating outside
+23/10/2017,-11.1,la torrefazione kam helsinki,other
+23/10/2017,-4.95,jungle juice bar to helsinki,eating outside
+23/10/2017,-8.7,dream friends oy    helsinki,other
+23/10/2017,-13.5,mathyruban          helsinki,eating outside
+23/10/2017,-22.0,assaresta oy        helsinki,eating outside
+23/10/2017,-7.5,mathyruban          helsinki,eating outside
+23/10/2017,-19.0,assaresta oy        helsinki,eating outside
+23/10/2017,-16.0,lasten paivan saati helsinki,other
+23/10/2017,-14.08,alepa pohjois haaga helsinki,groceries
+24/10/2017,-13.04,k supermarket kampp helsinki,groceries
+25/10/2017,-12.37,lidl  helsinki  kam helsinki,groceries
+25/10/2017,-1.78,lidl  helsinki  kam helsinki,groceries
+25/10/2017,15.0,turunen annukka,other
+26/10/2017,-9.2,hesburger hki k     helsinki,eating outside
+26/10/2017,-5.9,picnic kamppi       helsinki,eating outside
+26/10/2017,-4.95,jungle juice bar to helsinki,eating outside
+27/10/2017,-10.0,mathyruban          helsinki,eating outside
+27/10/2017,-15.0,ravintola tuplaassa helsinki,eating outside
+28/10/2017,-19.9,fitness24seven oy,health
+30/10/2017,-8.0,dream friends oy    helsinki,other
+30/10/2017,-13.5,ravintola tuplaassa helsinki,eating outside
+30/10/2017,-9.3,assaresta oy        helsinki,eating outside
+30/10/2017,-9.52,alepa pohjois haaga helsinki,groceries
+30/10/2017,-15.32,prisma kannelmaki   helsinki,other
+30/10/2017,-32.1,ravintola vapiano   helsinki,eating outside
+31/10/2017,-7.0,ravintola tuplaassa helsinki,eating outside
+31/10/2017,-7.7,r hki kampin keskus helsinki,other
+02/11/2017,-7.95,k supermarket posti helsinki,groceries
+03/11/2017,-4.95,jungle juice bar to helsinki,eating outside
+03/11/2017,-10.0,mathyruban          helsinki,eating outside
+05/11/2017,-215.46,satokoti oy,rent
+03/11/2017,-7.5,assaresta oy        helsinki,eating outside
+06/11/2017,-10.2,zeberas oy          helsinki,other
+06/11/2017,-2.5,compagnie mat oy ab helsinki,other
+06/11/2017,-9.0,compagnie mat oy ab helsinki,other
+06/11/2017,-8.7,dream friends oy    helsinki,other
+06/11/2017,-45.55,tmi hauler food     helsinki,other
+06/11/2017,-14.0,ravintola santa f   helsinki,eating outside
+06/11/2017,-14.0,assaresta oy        helsinki,eating outside
+07/11/2017,-30.55,k supermarket kampp helsinki,groceries
+07/11/2017,-4.95,jungle juice bar to helsinki,eating outside
+07/11/2017,-8.4,iss palvelut        iss,other
+09/11/2017,-4.95,jungle juice bar to helsinki,eating outside
+09/11/2017,-4.6,iss palvelut        iss,other
+09/11/2017,-2.84,alepa kampin keskus helsinki,groceries
+09/11/2017,100.0,shafiq omer,other
+10/11/2017,-49.9,sokos helsinki      helsinki,luxury
+10/11/2017,-0.18,sokos helsinki      helsinki,luxury
+12/11/2017,100.0,shafiq omer,other
+13/11/2017,-3.18,k supermarket posti helsinki,groceries
+13/11/2017,-6.5,assaresta oy        helsinki,eating outside
+13/11/2017,-6.4,r hki r-as. lansisi helsinki,other
+13/11/2017,-17.5,iz *kahvila taikap  tampere,eating outside
+13/11/2017,-14.9,iz *kahvila taikap  tampere,eating outside
+13/11/2017,-6.0,vr tampere asema    tampere,travel
+13/11/2017,-2.5,avecra oy 7303 ravi helsinki,other
+13/11/2017,-13.1,makuuni oy          tampere,other
+13/11/2017,-1.75,mcdonalds fredrikin helsinki,eating outside
+14/11/2017,-5.49,itunes.com/bill     itunes.com,other
+14/11/2017,-11.5,mathyruban          helsinki,eating outside
+14/11/2017,-7.0,assaresta oy        helsinki,eating outside
+14/11/2017,-24.82,alepa pohjois haaga helsinki,groceries
+15/11/2017,3101.1,tieto finland oy,salary
+15/11/2017,-7.2,osuuspankki,other
+15/11/2017,-300.0,shafiq omer,other
+15/11/2017,-6.2,zeberas oy          helsinki,other
+15/11/2017,-6.72,alepa pohjois haaga helsinki,groceries
+16/11/2017,-4.95,jungle juice bar to helsinki,eating outside
+17/11/2017,-13.5,mathyruban          helsinki,eating outside
+17/11/2017,-4.95,jungle juice bar to helsinki,eating outside
+17/11/2017,-8.0,assaresta oy        helsinki,eating outside
+17/11/2017,-3.8,alepa kampin keskus helsinki,groceries
+19/11/2017,-30.0,vr lippukauppa,travel
+20/11/2017,-13.5,mathyruban          helsinki,eating outside
+20/11/2017,-15.0,ravintola santa f   helsinki,eating outside
+20/11/2017,-15.0,ravintola tuplaassa helsinki,eating outside
+21/11/2017,-5.0,mathyruban          helsinki,eating outside
+21/11/2017,-19.1,pyymaen oma         tampere,other
+21/11/2017,-4.95,fazer food services tampereenylio,other
+21/11/2017,-18.33,envatomarket3823875 envato.com,groceries
+21/11/2017,-45.7,iz *kajon taksilii  espoo,other
